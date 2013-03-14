@@ -1,5 +1,7 @@
 # Paratrooper - Airbrake Notifier
 
+[![Gem Version](https://badge.fury.io/rb/paratrooper-airbrake.png)](http://badge.fury.io/rb/paratrooper-airbrake)
+
 Notify [Airbrake][] of your deployments when using [Paratrooper][]
 
 ## Installation
